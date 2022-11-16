@@ -1,4 +1,9 @@
 # DataPreparation_Imputation_FeatureSelection_DimensionalityReducation
-Dataset link: 'https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/stuff/titanic.csv'
+Dataset link: https://www.kaggle.com/datasets/pranavuikey/black-friday-sales-eda
 
 Performed data preparation with auto viml tools (Modelled using XGBoost)
+A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month.
+The data set also contains customer demographics (age, gender, marital status, citytype, stayincurrentcity), product details (productid and product category) and Total purchaseamount from last month.
+
+Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
+
